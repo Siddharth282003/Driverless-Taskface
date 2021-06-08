@@ -1,4 +1,4 @@
-my_tuple=("jan","feb","mar","apr","jan","feb", "feb")
+my_tuple=("12","13","12","14","15","16", "15")
 print(my_tuple)
 b=set()
 result=[element for element in my_tuple
