@@ -7,6 +7,6 @@ while(num>0):
     num=num//10
 if(temp==rev):
     print("It is a palindrome")
-    print (hex(num))
+    print ("Hex value of the number is: "hex(num))
 else:
     print("Not a palindrome!")
